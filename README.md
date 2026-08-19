@@ -1,5 +1,5 @@
 # Quantum Programming Core
-In this repository, you can navigate to repositories corresponding 10 separate assignments in the Quantum Programming Core course. Each assignment folder includes instructions in the `Readme` file. Once complete, upload your `.py` file to D-Wave Learn to see how you did.
+In this repository, you can navigate to 10 repositories corresponding to 10 separate assignments in the "Quantum Programming Core" course. Each assignment folder includes instructions in the `Readme` file. Once complete, upload your `.py` file to D-Wave Learn to see how you did.
 
 ## Assignment 1: Python Review
 For this assignment, navigate to ['python-prep'](https://github.com/dwave-training/python-prep) repository.
