@@ -30,3 +30,4 @@ For this assignment, navigate to ['employee-scheduling'](https://github.com/dwav
 
 ## Assignment 10: Portfolio Optimization
 For this assignment, navigate to ['portfolio-optimization'](https://github.com/dwave-training/portfolio-optimization) repository.
+
