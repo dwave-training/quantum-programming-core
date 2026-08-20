@@ -10,6 +10,9 @@ For this assignment, navigate to the ['graph-mapping'](https://github.com/dwave-
 ## Traveling Salesperson
 For this assignment, navigate to the ['traveling-salesperson'](https://github.com/dwave-training/traveling-salesperson) repository.
 
+## Two Qubit Interactions
+For this assignment, navigate to the ['two-qubit-interactions'](https://github.com/dwave-training/two-qubit-interactions) repository.
+
 ## Social Networks
 For this assignment, navigate to the ['social-networks'](https://github.com/dwave-training/social-networks) repository.
 
