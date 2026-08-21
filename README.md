@@ -1,5 +1,5 @@
 # Quantum Programming Core
-This repository provides links to all assignment repositories in the online [Quantum Programming Core](https://training.dwavequantum.com/product?catalog=QuantumProgrammingCore) course.
+This repository contains links to all assignment repositories in the online [Quantum Programming Core](https://training.dwavequantum.com/product?catalog=QuantumProgrammingCore) course.
 
 ## Python Review
 For this assignment, navigate to the ['python-prep'](https://github.com/dwave-training/python-prep) repository.
