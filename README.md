@@ -29,7 +29,7 @@ For this assignment, navigate to the ['portfolio-optimization'](https://github.c
 For this assignment, navigate to the ['python-prep'](https://github.com/dwave-training/python-prep) repository.
 
 ## QUBO Lifecycle
-For this example, navigate to the [QUBO-lifecycle](https://github.com/dwave-training/QUBO-lifecycle) repository.
+For this example, navigate to the ['QUBO-lifecycle'](https://github.com/dwave-training/QUBO-lifecycle) repository.
 
 ## Social Networks
 For this assignment, navigate to the ['social-networks'](https://github.com/dwave-training/social-networks) repository.
