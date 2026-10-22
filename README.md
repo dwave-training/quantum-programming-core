@@ -14,7 +14,7 @@ For this assignment, navigate to the ['graph-mapping'](https://github.com/dwave-
 For this example, navigate to the ['graph-partitioning'](https://github.com/dwave-training/graph-partitioning) repository.
 
 ## Knapsack Problem with the Stride™ Hybrid Solver
-For this assignment, navigate to the ['knapsack-nl'](https://github.com/dwave-training/knapsack-nl) repository.
+For this assignment, navigate to the ['knapsack-stride'](https://github.com/dwave-training/knapsack-stride) repository.
 
 ## Number Partitioning
 For this assignment, navigate to the ['number-partitioning'](https://github.com/dwave-training/number-partitioning) repository.
